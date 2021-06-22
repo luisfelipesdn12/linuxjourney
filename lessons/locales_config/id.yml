@@ -1,0 +1,55 @@
+# Files in the config/locales directory are used for internationalization
+# and are automatically loaded by Rails. If you want to use locales other
+# than English, add the necessary files in this directory.
+#
+# To use the locales, use `I18n.t`:
+#
+#     I18n.t 'hello'
+#
+# In views, this is aliased to just `t`:
+#
+#     <%= t('hello') %>
+#
+# To use a different locale, set it with `I18n.locale`:
+#
+#     I18n.locale = :es
+#
+# This would use the information in config/locales/es.yml.
+#
+# To learn more, please read the Rails Internationalization guide
+# available at http://guides.rubyonrails.org/i18n.html.
+
+en:
+  menu:
+    languages:
+      lang: "Bahasa"
+      flag: "flags/Indonesia.png"
+  home:
+    tagline: 
+      title: "Belajar jalan dari Linux-fu, gratis."
+    subscribe:
+      title: "Subscribe"
+      body: "Dapatkan update tentang kursus dan pembelajaran baru!"
+    about:
+      title: "Tentang Kami"
+      body: "Pengetahuan yang didapat disini hari ini dipersembahkan oleh open-source community."
+      url_name: "Kontibusi dan Kolaborasi"
+      url: "https://github.com/cindyq/linuxjourney"
+    contact:
+      title: "Kontak Kami"
+      body: "Menemukan bug? Ada Keluhan? Hanya mau mengirim sebuah catatan?"
+      url_name: "Biarkan kami tau"
+      url: "contact@linuxjourney.com"
+  courses:
+    titles:
+      exercises: "Latihan"
+      quiz: "Kuis"
+  forms:
+    buttons:
+      check_answer: "Cek Jawaban"
+      continue: "Lanjutkan"
+      return: "Kembali ke Menu Utama"
+      home: "Beranda"
+    messages:
+      answer_correct: "Jawaban Benar!"
+      answer_incorrect: "Kurang tepat, coba lagi"
