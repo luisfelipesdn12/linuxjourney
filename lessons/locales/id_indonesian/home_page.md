@@ -22,30 +22,30 @@
 
 * Devices - Belajar tentang perangkat Linux dan bagaimana mereka berinteraksi dengan kernel dan user space.
 
-* The Filesystem - Learn about the Linux filesystem, the different types of filesystems, partitioning and more.
+* The Filesystem - Belajar tentang filesystem Linux, perbedaan jenis-jenis filesistem, pemartisian dan banyak lagi.
 
-* Boot the System - Learn about the stages of the Linux boot process.
+* Boot the System - Belajar tentang tahapan proses boot dari sebuah sistem Linux.
 
-* Kernel - The most important part of the Linux system, learn about how it works and how to configure it.
+* Kernel - Bagian paling penting dari sebuah sistem Linux, belajar tentang bagaimana caranya bekerja dan bagaimana mengkonfigurasinya.
 
-* Init - Learn about the different init systems, SysV, Upstart and systemd.
+* Init - Belajar tentang berbagai macam sistem init yang berbeda, SysV, Upstart dan systemd.
 
-* Process Utilization - Learn resource monitoring with top, load averages, iostat and more!
+* Process Utilization - Belajar tentang monitor sumber daya dengan top, load averages, iostat dan banyak lagi!
 
-* Logging - Learn about system logs and the /var/log directory.
+* Logging - Belajar tentang system logs dan direktori /var/log.
 
-## Networking Nomad
+## Pengembara jaringan
 
-* Network Sharing - Learn about network sharing with rsync, scp, nfs and more.
+* Network Sharing - Belajar tentang network sharing dengan rsync, scp, nfs, dan banyak lagi.
 
-* Network Basics - Learn about networking basics and the TCP/IP model.
+* Network Basics - Belajar tentang dasar jaringan dan TCP/IP model.
 
-* Subnetting - Learn about subnets and how to do subnet arithmetic!
+* Subnetting - Belajar tentang subjaringan (subnets) dan bagaimana melakukan aritmatika subjaringan
 
-* Routing - Learn how packets are routed across networks!
+* Routing - Belajar bagaimana paket diarahkan antar jaringan!
 
-* Network Config - Learn about network configuration using Linux tools!
+* Network Config - Belajar tentang konfigurasi jaringan menggunakan peralatan Linux!
 
-* Troubleshooting - Learn about common networking tools to help you diagnose and troubleshoot issues!
+* Troubleshooting - Belajar tentang alat umum jaringan untuk membantumu mendiagnosa dan menyelesaikan masalah!
 
-* DNS - Everything and more that you wanted to know about DNS.
+* DNS - Segalanya dan banyak lagi yang ingin kalian tau tentang DNS.
